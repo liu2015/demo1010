@@ -1,0 +1,22 @@
+2019-10-11 15:31:39.589 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-VGJR4R4 with PID 15636 (D:\IdeaProjects\demo1010\target\classes started by ZHY in D:\IdeaProjects\demo1010)
+2019-10-11 15:31:39.598 [main] INFO  com.example.demo.DemoApplication - The following profiles are active: dev
+2019-10-11 15:31:40.399 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-10-11 15:31:40.409 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-11 15:31:40.416 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-11 15:31:40.416 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-11 15:31:40.421 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2019-10-11 15:31:40.421 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2019-10-11 15:31:40.421 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2019-10-11 15:31:40.424 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2019-10-11 15:31:40.487 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-11 15:31:40.487 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 860 ms
+2019-10-11 15:31:40.877 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-11 15:31:40.919 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-10-11 15:31:41.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-10-11 15:31:41.057 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-11 15:31:41.059 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.05 seconds (JVM running for 2.751)
+2019-10-11 15:31:44.758 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-11 15:31:44.758 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-10-11 15:31:44.763 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-10-11 15:31:44.887 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-11 15:31:45.338 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
